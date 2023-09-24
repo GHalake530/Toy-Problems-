@@ -1,5 +1,6 @@
 # Toy-Problems-
 In this project we were asked to solve for 3 different problems.
+
 Challenge 1: Student Grade Generator (Toy Problem)
 
 Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
@@ -39,3 +40,5 @@ For this in the js file called speed.js. I was able to provide a solution for th
 
 Solution
 For this, in the js folder speed.js, i was able to write a code that would calculate the net salary of an individual and calculate the amount of deductions they receive. It also calculates the amount of money paid to each specific deductable i.e PAYE, nssf, nhif etc
+
+## Author: Guyo Halake

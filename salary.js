@@ -59,7 +59,7 @@ function calculateNetSalary() {
     // NET SALARY
     const netSalary = grossSalary - payee - nhifDeductions - nssfDeductions;
   
-    // DISPLAY 
+    // Display all deductions and their amounts
     alert(`Gross Salary: $${grossSalary.toFixed(2)}`);
     alert(`Payee (Tax): $${payee.toFixed(2)}`);
     alert(`NHIF Deductions: $${nhifDeductions.toFixed(2)}`);
